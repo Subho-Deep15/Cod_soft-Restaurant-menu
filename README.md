@@ -1,4 +1,4 @@
-# [Order Food](https://spreston4.github.io/order-food/)
+# [Order Food](https://subho-deep15.github.io/order-food/)
 
 ![Home](./public/assets/images/banner.PNG)
 
@@ -6,9 +6,9 @@
 
 Order Food is a responsive, mobile friendly, mock front end application for a restaraunt's ordering service. Customers can browse the restaraunt's menu and add items to their cart. Customers can view their cart at anytime to see all items that have been placed in the cart, and the total amount of their order. Customers can adjust the quantity of items from their cart, or choose to empty their cart alltogether. After placing their order, customers are prompted to enter their delivery address & asked to confirm their order. After confirming their order, customers are presented a confirmation message containing their delivery & order details. Menu items are populated from a Firebase Realtime Database. All confirmed orders are sent to the Firebase Realtime Database.
 
-- [Deployed Order Food Application](https://spreston4.github.io/order-food/)
+- [Deployed Order Food Application](https://subho-deep15.github.io/order-food/)
 
-- [GitHub Repo for the Order Food application](https://github.com/spreston4/order-food)
+- [GitHub Repo for the Order Food application](https://github.com/subho-deep15/order-food)
 
 ## Table of Contents
 
@@ -58,7 +58,7 @@ Built in Visual Studio with:
 
 ## Finished Product
 
-- [Deployed Order Food Application](https://spreston4.github.io/order-food/)
+- [Deployed Order Food Application](https://subho-deep15.github.io/order-food/)
 
 ### Desktop Version
 
@@ -86,6 +86,6 @@ Built in Visual Studio with:
 
 Questions, comments, or concerns about this project? Contact via e-mail or checkout my GitHub!
 
-- GitHub: [spreston4](https://github.com/spreston4)
+- GitHub: [Subho-Deep15]([https://github.com/spreston4](https://github.com/Subho-Deep15))
 
-- E-mail: [sam.preston11@gmail.com](mailto:sam.preston11@gmail.com)
+- E-mail: [subhodeepkirtuniyadgpe5678@gmail.com](emailto:subhodeepkirtuniyadgpe5678@gmail.com)
