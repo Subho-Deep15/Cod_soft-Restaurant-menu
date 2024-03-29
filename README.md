@@ -1,4 +1,4 @@
-# [Order Food](https://subho-deep15.github.io/order-food/)
+
 
 ![Home](./public/assets/images/banner.PNG)
 
@@ -6,7 +6,6 @@
 
 Order Food is a responsive, mobile friendly, mock front end application for a restaraunt's ordering service. Customers can browse the restaraunt's menu and add items to their cart. Customers can view their cart at anytime to see all items that have been placed in the cart, and the total amount of their order. Customers can adjust the quantity of items from their cart, or choose to empty their cart alltogether. After placing their order, customers are prompted to enter their delivery address & asked to confirm their order. After confirming their order, customers are presented a confirmation message containing their delivery & order details. Menu items are populated from a Firebase Realtime Database. All confirmed orders are sent to the Firebase Realtime Database.
 
-- [Deployed Order Food Application](https://subho-deep15.github.io/order-food/)
 
 - [GitHub Repo for the Order Food application](https://github.com/subho-deep15/order-food)
 
@@ -15,7 +14,6 @@ Order Food is a responsive, mobile friendly, mock front end application for a re
 - [Intallation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Finished Product](#finished-product)
 - [Contact Me](#contact-me)
 
 ## Installation
@@ -56,9 +54,6 @@ Built in Visual Studio with:
 - CSS Modules
 - Firebase Realtime Database
 
-## Finished Product
-
-- [Deployed Order Food Application](https://subho-deep15.github.io/order-food/)
 
 ### Desktop Version
 
